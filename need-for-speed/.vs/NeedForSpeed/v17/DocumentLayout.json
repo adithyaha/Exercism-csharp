@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Exercism\\csharp\\need-for-speed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33DB8B23-7D16-495F-81E2-44D2AC7844C7}|NeedForSpeed.csproj|c:\\users\\user\\exercism\\csharp\\need-for-speed\\needforspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DB8B23-7D16-495F-81E2-44D2AC7844C7}|NeedForSpeed.csproj|solutionrelative:needforspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DB8B23-7D16-495F-81E2-44D2AC7844C7}|NeedForSpeed.csproj|c:\\users\\user\\exercism\\csharp\\need-for-speed\\needforspeedtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DB8B23-7D16-495F-81E2-44D2AC7844C7}|NeedForSpeed.csproj|solutionrelative:needforspeedtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DB8B23-7D16-495F-81E2-44D2AC7844C7}|NeedForSpeed.csproj|c:\\users\\user\\exercism\\csharp\\need-for-speed\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{33DB8B23-7D16-495F-81E2-44D2AC7844C7}|NeedForSpeed.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DB8B23-7D16-495F-81E2-44D2AC7844C7}|NeedForSpeed.csproj|c:\\users\\user\\exercism\\csharp\\need-for-speed\\hints.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{33DB8B23-7D16-495F-81E2-44D2AC7844C7}|NeedForSpeed.csproj|solutionrelative:hints.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\Exercism\\csharp\\need-for-speed\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\user\\Exercism\\csharp\\need-for-speed\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-21T23:44:01.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HINTS.md",
+              "DocumentMoniker": "C:\\Users\\user\\Exercism\\csharp\\need-for-speed\\HINTS.md",
+              "RelativeDocumentMoniker": "HINTS.md",
+              "ToolTip": "C:\\Users\\user\\Exercism\\csharp\\need-for-speed\\HINTS.md",
+              "RelativeToolTip": "HINTS.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-22T00:00:16.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NeedForSpeed.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Exercism\\csharp\\need-for-speed\\NeedForSpeed.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed.cs",
+              "ToolTip": "C:\\Users\\user\\Exercism\\csharp\\need-for-speed\\NeedForSpeed.cs",
+              "RelativeToolTip": "NeedForSpeed.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvx8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:44:15.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NeedForSpeedTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Exercism\\csharp\\need-for-speed\\NeedForSpeedTests.cs",
+              "RelativeDocumentMoniker": "NeedForSpeedTests.cs",
+              "ToolTip": "C:\\Users\\user\\Exercism\\csharp\\need-for-speed\\NeedForSpeedTests.cs",
+              "RelativeToolTip": "NeedForSpeedTests.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAUwMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:52:57.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
