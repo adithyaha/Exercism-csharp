@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yljUvU4UjY4=",
+  "dgSpecHash": "wRahxbFti1M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Exercism\\csharp\\wizards-and-warriors-2\\WizardsAndWarriors2.csproj",
+  "projectFilePath": "C:\\Users\\user\\Exercism\\csharp\\red-vs-blue-darwin-style\\RedVsBlueDarwinStyle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\exercism.tests\\0.1.0-beta1\\exercism.tests.0.1.0-beta1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\16.8.3\\microsoft.codecoverage.16.8.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Exercism\\csharp\\wizards-and-warriors-2\\WizardsAndWarriors2.csproj": {}
+    "C:\\Users\\user\\Exercism\\csharp\\red-vs-blue-darwin-style\\RedVsBlueDarwinStyle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Exercism\\csharp\\wizards-and-warriors-2\\WizardsAndWarriors2.csproj": {
+    "C:\\Users\\user\\Exercism\\csharp\\red-vs-blue-darwin-style\\RedVsBlueDarwinStyle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Exercism\\csharp\\wizards-and-warriors-2\\WizardsAndWarriors2.csproj",
-        "projectName": "WizardsAndWarriors2",
-        "projectPath": "C:\\Users\\user\\Exercism\\csharp\\wizards-and-warriors-2\\WizardsAndWarriors2.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Exercism\\csharp\\red-vs-blue-darwin-style\\RedVsBlueDarwinStyle.csproj",
+        "projectName": "RedVsBlueDarwinStyle",
+        "projectPath": "C:\\Users\\user\\Exercism\\csharp\\red-vs-blue-darwin-style\\RedVsBlueDarwinStyle.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Exercism\\csharp\\wizards-and-warriors-2\\obj\\",
+        "outputPath": "C:\\Users\\user\\Exercism\\csharp\\red-vs-blue-darwin-style\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
